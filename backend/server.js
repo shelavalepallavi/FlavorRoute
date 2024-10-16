@@ -18,7 +18,7 @@ app.use(express.json()) //whenever we will get request from the frontend to back
 app.use(cors()) //access backend from frontend
 
 //db connection
-connectDB()
+connectDB();
 
 //api end point
 app.use("/api/food", foodRouter)
