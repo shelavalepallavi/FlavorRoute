@@ -8,7 +8,7 @@ const Footer = () => {
 
       <div className="footer-content">
         <div className="footer-content-left">
-          <img src={assets.logo} alt="" />
+          <p className='logo'>FlavorRoute</p>
           <p>This application  typically offers recipes, cooking tips, and meal planning ideas. It may include sections for different cuisines, dietary preferences, and seasonal dishes. Users can find detailed instructions, ingredient lists, and nutritional information.</p>
           <div className="footer-social-icons">
             <img src={assets.facebook_icon} alt="" />
@@ -29,13 +29,13 @@ const Footer = () => {
           <h2>GET IN TOUCH</h2>
           <ul>
             <li>+91-123-456-7890</li>
-            <li>contact@tomato.com</li>
+            <li>contact@flavorroute.com</li>
           </ul>
         </div>
       </div>
 
       <hr />
-      <p className='footer-copyright'>Copyright 2024 &copy; Tomato.com - All Right Reserved</p>
+      <p className='footer-copyright'>Copyright 2024 &copy; FlavorRoute.com - All Right Reserved</p>
     </div>
   )
 }

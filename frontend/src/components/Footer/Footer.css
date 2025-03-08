@@ -9,6 +9,11 @@
   padding-top: 80px;
   margin-top: 100px;
 }
+.footer .logo{
+  width: 150px;
+  color: tomato;
+  font-size: 40px;
+}
 
 .footer-content {
   width: 100%;
