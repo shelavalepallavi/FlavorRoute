@@ -10,9 +10,7 @@ import Verify from "./pages/Verify/Verify";
 import MyOrders from "./pages/MyOrders/MyOrders";
 
 const App = () => {
-    
   const [showLogin, setShowLogin] = useState(false)
-
   return (
     <>
     {showLogin?<LoginPopup setShowLogin={setShowLogin}/>:<></>}
