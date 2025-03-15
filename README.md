@@ -34,7 +34,7 @@ Ensure you have the following installed:
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](public/home.png)
+![Home Page](public/screenshots/home.png)
 
 
 ## 🎯 Usage
