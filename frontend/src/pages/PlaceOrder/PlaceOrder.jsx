@@ -89,7 +89,7 @@ const PlaceOrder = () => {
 
         <input name="phone" onChange={handleChange} value={data.phone} type="text" placeholder="Phone" required />
       </div>
-
+ 
       <div className="place-order-right">
         <div className="cart-total">
           <h2>Cart Totals</h2>
