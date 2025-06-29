@@ -2,6 +2,11 @@
 
 FlavorRoute is a full-stack food delivery web application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. The platform allows users to browse, order, and pay for food online seamlessly.
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](frontend/public/screenshots/home.png)
+
 ## 🚀 Features
 
 - 🔐 User authentication (Signup/Login)
@@ -30,11 +35,6 @@ Ensure you have the following installed:
 ## 🚀 Deployment
 - **Frontend:** Hosted on [Netlify](https://flavor-route.netlify.app)
 - **Backend:** Hosted on Render
-
-## 📸 Screenshots
-
-### 🏠 Home Page
-![Home Page](frontend/public/screenshots/home.png)
 
 
 ## 🎯 Usage
