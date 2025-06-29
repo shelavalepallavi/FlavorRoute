@@ -137,12 +137,23 @@
     justify-content: start;
     gap: 140px;
   }
+   .navbar .logo{
+    font-size: 30px;
+  }
   .navbar-menu{
     display: none;
+  }
+ .navbar-right button{
+  border-radius: 15px;
+    padding: 7px 10px;
+    font-size: 12px;
+  }
+  .navbar-right{
+    gap: 12px;
   }
 }
 @media (max-width:400px) {
   .navbar{
-    gap: 120px;
+    gap: 70px;
   }
 }
