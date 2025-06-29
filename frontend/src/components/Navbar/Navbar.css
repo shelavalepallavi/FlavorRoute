@@ -133,8 +133,16 @@
 }
 
 @media (max-width:750px) {
-  
+  .navbar{
+    justify-content: start;
+    gap: 140px;
+  }
   .navbar-menu{
     display: none;
+  }
+}
+@media (max-width:400px) {
+  .navbar{
+    gap: 120px;
   }
 }
