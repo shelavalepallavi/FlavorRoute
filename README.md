@@ -38,7 +38,7 @@ Ensure you have the following installed:
 
 
 ## 🎯 Usage
-1. 🔑 Register/Login as a user.
-2. 🍕 Browse food items and add them to your cart.
-3. 💵 Proceed to checkout and complete the payment.
-4. 🚚 Track your order status.
+1. 🔑 Register/Login as a user
+2. 🍕 Browse food items and add them to your cart
+3. 💵 Proceed to checkout and complete the payment
+4. 🚚 Track your order status
